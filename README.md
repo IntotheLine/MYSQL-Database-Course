@@ -1,2 +1,2 @@
 # MYSQL-Database-Course
-Python Course for Database MYSQL skillsoft
+Python Course for Database MYSQL on skillsoft
